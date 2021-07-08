@@ -1,0 +1,21 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "front": "cd frontend && npm start",
+    "back": "cd backend && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/n4beel/leaderboard-sorting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/n4beel/leaderboard-sorting/issues"
+  },
+  "homepage": "https://github.com/n4beel/leaderboard-sorting#readme"
+}
